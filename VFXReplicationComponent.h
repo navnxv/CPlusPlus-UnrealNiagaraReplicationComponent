@@ -1,4 +1,4 @@
-// Copyright (C) Navpreet Singh, 2023
+// Copyright (C) Navpreet Singh 2023, All Rights Reserved
 
 #pragma once
 
